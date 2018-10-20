@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="A3NathanSacconP2/A3NathanSacconP2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="A3NathanSacconP2/Program.cs">
+    <Files>
+      <File FileName="A3NathanSacconP2/Program.cs" Line="94" Column="31" />
+      <File FileName="../A3NathanSacconP1/A3NathanSacconP1/Program.cs" Line="3" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

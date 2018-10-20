@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="A4NathanSaccon/A4NathanSaccon.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="A4NathanSaccon/Program.cs">
+    <Files>
+      <File FileName="A4NathanSaccon/Program.cs" Line="76" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

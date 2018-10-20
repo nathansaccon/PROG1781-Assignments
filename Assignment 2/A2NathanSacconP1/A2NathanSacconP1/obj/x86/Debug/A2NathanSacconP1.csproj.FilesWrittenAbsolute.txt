@@ -1,0 +1,5 @@
+/Users/nathansaccon/Documents/School Fall 2017/PROG1781 Programming Concepts/Assignment 2/Part 1/A2NathanSacconP1/A2NathanSacconP1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nathansaccon/Documents/School Fall 2017/PROG1781 Programming Concepts/Assignment 2/Part 1/A2NathanSacconP1/A2NathanSacconP1/bin/Debug/A2NathanSacconP1.pdb
+/Users/nathansaccon/Documents/School Fall 2017/PROG1781 Programming Concepts/Assignment 2/Part 1/A2NathanSacconP1/A2NathanSacconP1/bin/Debug/A2NathanSacconP1.exe
+/Users/nathansaccon/Documents/School Fall 2017/PROG1781 Programming Concepts/Assignment 2/Part 1/A2NathanSacconP1/A2NathanSacconP1/obj/x86/Debug/A2NathanSacconP1.exe
+/Users/nathansaccon/Documents/School Fall 2017/PROG1781 Programming Concepts/Assignment 2/Part 1/A2NathanSacconP1/A2NathanSacconP1/obj/x86/Debug/A2NathanSacconP1.pdb
